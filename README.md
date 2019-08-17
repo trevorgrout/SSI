@@ -1,0 +1,2 @@
+# SSI
+Storm Severity Index
